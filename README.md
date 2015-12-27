@@ -1,4 +1,4 @@
-# Coursera - Getting & Cleanaing Data - Course Project
+# Coursera - Getting & Cleaning Data - Course Project
 
 ## Project objectives are as follows:
 
